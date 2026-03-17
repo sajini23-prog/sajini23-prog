@@ -1,16 +1,19 @@
-## Hi there 👋
+##### Hello, I'm Sajini
 
-<!--
-**sajini23-prog/sajini23-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Business Data Analytics Undergraduate  
+###### Passionate about Data Analysis, Visualization & Business Insights  
 
-Here are some ideas to get you started:
+##### Skills:
+###### - Python (Pandas, Matplotlib)
+###### - SQL
+###### - R
+###### - Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Projects:
+###### - Emirates Oil Price Analysis
+###### - Car Price Prediction
+###### - Water Mortality Dashboard
+###### - Statistical Analysis using R
+
+#####  Connect with me:
+###### LinkedIn: https://www.linkedin.com/in/sajini-udawela-1a0b933a8
