@@ -1,7 +1,7 @@
-##### Hello, I'm Sajini
+##### Hi, I'm Sajini Udawela
 
-###### Business Data Analytics Undergraduate  
-###### Passionate about Data Analysis, Visualization & Business Insights  
+###### A Business Data Analytics Undergraduate at the University of Westminster ( Informatics Institute of Technology Sri Lanka )  
+###### I'm Passionate about Data Analysis, Visualization & Business Insights.  
 
 ##### Skills:
 ###### - Python (Pandas, Matplotlib)
